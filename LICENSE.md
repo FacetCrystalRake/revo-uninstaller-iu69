@@ -1,4 +1,4 @@
-# 
+# secure CCleaner PC版 脚本 是最佳 CCleaner PC版 脚本，集成 加密 和 卸载历史。安全、可靠、优化，性能最大化。
 
 
 
